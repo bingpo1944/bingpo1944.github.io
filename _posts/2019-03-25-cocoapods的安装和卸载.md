@@ -13,10 +13,11 @@ tag: 教程
 
 
 
-###pod安装与卸载
+pod安装与卸载
 
 
-####一、安装
+一、安装     {#inistall}
+====================================
 
 1、配置ruby环境
 
@@ -45,7 +46,8 @@ While executing gem ... (Gem::FilePermissionError)
  
  
 
-####二、卸载
+二、卸载    {#Uninstall}
+====================================
 
 使用 $sudo gem uninstall cocoapods
 
