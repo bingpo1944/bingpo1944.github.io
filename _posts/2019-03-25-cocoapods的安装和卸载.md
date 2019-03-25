@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  od安装与卸载
+title:  Pod安装与卸载
 date:   2019-03-25 00:00:00 +0800
 categories: Pods
 tag: 教程
