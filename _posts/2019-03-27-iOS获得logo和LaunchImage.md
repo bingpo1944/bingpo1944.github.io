@@ -3,7 +3,7 @@ layout: post
 title:  获得logo和LaunchImage
 date:   2019-03-27 00:00:00 +0800
 categories: iOS
-tag: 杂七杂八
+tag: 杂七杂八-iOS
 ---
 
 * content
